@@ -240,3 +240,4 @@ static decimal CalculateTotalSalary(decimal salary1, decimal salary2)
 {
     return salary1 + salary2;
 }
+// Employee management application
